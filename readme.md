@@ -4,7 +4,7 @@
 那就试试这个腊鸡脚本吧！
 ## chrome浏览器插件用法 v0.0.2
 
-1.[下载最新的release，安装至chrome](https://github.com/Can2Nya/choosing-course-in-xk.jxnu/releases/tag/0.0.2)
+1.[下载最新的release，安装至chrome](https://github.com/Can2Nya/choosing-course-in-xk.jxnu/releases)
 （安装过程中若提示不成功请在更多工具->扩展应用中打开“开发者模式”）
 
 2.打开[选课系统](http://xk.jxnu.edu.cn/Default.aspx)，插件会自动识别并激活
