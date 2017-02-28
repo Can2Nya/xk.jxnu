@@ -4,11 +4,23 @@
 那就试试这个腊鸡脚本吧！
 ## chrome浏览器插件用法 v0.0.2
 
-[下载最新的release，安装至chrome](https://github.com/Can2Nya/choosing-course-in-xk.jxnu/releases/tag/0.0.2)
+1.[下载最新的release，安装至chrome](https://github.com/Can2Nya/choosing-course-in-xk.jxnu/releases/tag/0.0.2)
+（安装过程中若提示不成功请在更多工具->扩展应用中打开“开发者模式”）
 
-安装成功后，打开选课系统插件会自动识别并激活
-根据插件说明选择自己想选的课，点击【选择班级】旁边的【抢课】按钮，插件会自动刷新课程直到抢课成功
-点击右上角图标可以查看抢课进度
+2.打开[选课系统](http://xk.jxnu.edu.cn/Default.aspx)，插件会自动识别并激活
+
+3.输入学号密码，并自行登录选课系统
+
+![](http://olviz7tta.bkt.clouddn.com/1.jpg)
+
+4.找到想抢的课，点击【抢课】按钮
+
+![](http://olviz7tta.bkt.clouddn.com/2.jpg)
+
+5.可以点击在右上角的图标查看抢课进度
+
+![](http://olviz7tta.bkt.clouddn.com/3.jpg)
+
 
 ## 通用浏览器脚本用法 v0.0.1
 
@@ -40,5 +52,4 @@ v0.0.1
 ## 关于插件
 不得在选课高峰期使用
 本插件开发作为学习和交流使用，不得二次修改发布
-暂不开源
 
